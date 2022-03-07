@@ -1,10 +1,21 @@
 header{
-    text-align: center;
-    
+    height: 220px;
+    text-align: right;
+    background-image: url('https://timelinecovers.pro/facebook-cover/download/html-header-code-facebook-cover.jpg');
+    background-size: cover;
 }
-
+a{
+    text-decoration: none;
+}
+img{
+    margin-top: 25px;
+    margin-right: 60px;
+}
+nav{
+    margin-right: 80px;
+}
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Nunito', sans-serif;
 }
 
 #foto{
@@ -18,6 +29,7 @@ h1,h2{
 }
 
 h1{
+    text-align: center;
     font-size: 35px;
     letter-spacing: 10px;
 }
@@ -37,7 +49,7 @@ footer{
 }
 
 .margen{
-    margin-left: 80px;
+    margin-left: 92px;
 }
 
 i{
@@ -45,6 +57,3 @@ i{
     color: white;
 }
 
-a{
-    text-decoration: none;
-}
