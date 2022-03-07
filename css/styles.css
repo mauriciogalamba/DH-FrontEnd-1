@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+    
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#foto{
+    width: 100px;
+    border-radius: 8px;
+}
+
+h1,h2{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+h1{
+    font-size: 35px;
+    letter-spacing: 10px;
+}
+
+h2{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+footer{
+    text-align: center;
+    background-color: #005677;
+}
+
+.sin-punto{
+    list-style-type: none;
+}
+
+.margen{
+    margin-left: 80px;
+}
+
+i{
+    font-style: normal;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
